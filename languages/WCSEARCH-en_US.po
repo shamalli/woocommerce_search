@@ -1,0 +1,1215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wcsearch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-15 13:52+0600\n"
+"PO-Revision-Date: 2021-12-15 13:52+0600\n"
+"Last-Translator: Mihail Chepovskiy\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Loco-Version: 2.5.3; wp-5.8.2-alpha-51778\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/ajax_controller.php:82
+msgid "open product"
+msgstr ""
+
+#: classes/demo_data.php:106 classes/demo_data.php:107
+msgid "Demo data Import"
+msgstr ""
+
+#: classes/demo_data.php:149
+#, php-format
+msgid ""
+"Import of the demo data was successfully completed. Look at your <a "
+"href='%s'>search forms</a> and <a href='%s'>demo pages</a>."
+msgstr ""
+
+#: classes/filters/featured.php:29
+msgid "Featured"
+msgstr ""
+
+#: classes/filters/instock.php:35
+msgid "In stock"
+msgstr ""
+
+#: classes/filters/onsale.php:26
+msgid "On sale"
+msgstr ""
+
+#: classes/filters/price.php:74
+msgid "from"
+msgstr ""
+
+#: classes/filters/price.php:86
+msgid "to"
+msgstr ""
+
+#: classes/filters/ratings.php:40
+msgid "star"
+msgstr ""
+
+#: classes/filters/ratings.php:40
+msgid "stars"
+msgstr ""
+
+#: classes/search/search_form_model.php:262
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:9
+#: classes/search/search_forms_manager.php:100
+#: classes/search/search_forms_manager.php:134
+#: classes/search/search_forms_manager.php:168
+#: classes/search/search_forms_manager.php:301
+#: classes/search/search_forms_manager.php:433
+#: classes/search/search_forms_manager.php:502
+#: classes/search/search_forms_manager.php:606
+#: classes/search/search_forms_manager.php:607
+#: classes/search/search_forms_manager.php:870
+#: classes/search/search_forms_manager.php:871 classes/widgets/widget.php:11
+msgid "Title"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:10
+msgid "Keywords"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:15
+#: classes/search/search_forms_manager.php:106
+#: classes/search/search_forms_manager.php:140
+#: classes/search/search_forms_manager.php:643
+#: classes/search/search_forms_manager.php:650
+#: classes/search/search_forms_manager.php:906
+msgid "Placeholder"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:16
+#: classes/search/search_forms_manager.php:107
+msgid "Enter keywords"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:21
+#: classes/search/search_forms_manager.php:112
+#: classes/search/search_forms_manager.php:146
+#: classes/search/search_forms_manager.php:174
+#: classes/search/search_forms_manager.php:307
+#: classes/search/search_forms_manager.php:439
+#: classes/search/search_forms_manager.php:508
+#: classes/search/search_forms_manager.php:612
+#: classes/search/search_forms_manager.php:876
+#: classes/search/search_forms_manager.php:1179
+msgid "Visible"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:23
+#: classes/search/search_forms_manager.php:114
+#: classes/search/search_forms_manager.php:148
+#: classes/search/search_forms_manager.php:176
+#: classes/search/search_forms_manager.php:309
+#: classes/search/search_forms_manager.php:441
+#: classes/search/search_forms_manager.php:510
+#: classes/search/search_forms_manager.php:614
+#: classes/search/search_forms_manager.php:878
+#: classes/search/search_forms_manager.php:1181
+msgid "Always opened"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:24
+#: classes/search/search_forms_manager.php:115
+#: classes/search/search_forms_manager.php:149
+#: classes/search/search_forms_manager.php:177
+#: classes/search/search_forms_manager.php:310
+#: classes/search/search_forms_manager.php:442
+#: classes/search/search_forms_manager.php:511
+#: classes/search/search_forms_manager.php:615
+#: classes/search/search_forms_manager.php:879
+#: classes/search/search_forms_manager.php:1182
+msgid "Opened"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:25
+#: classes/search/search_forms_manager.php:116
+#: classes/search/search_forms_manager.php:150
+#: classes/search/search_forms_manager.php:178
+#: classes/search/search_forms_manager.php:311
+#: classes/search/search_forms_manager.php:443
+#: classes/search/search_forms_manager.php:512
+#: classes/search/search_forms_manager.php:616
+#: classes/search/search_forms_manager.php:880
+#: classes/search/search_forms_manager.php:1183
+msgid "Closed"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:26
+#: classes/search/search_forms_manager.php:117
+#: classes/search/search_forms_manager.php:151
+#: classes/search/search_forms_manager.php:179
+#: classes/search/search_forms_manager.php:312
+#: classes/search/search_forms_manager.php:444
+#: classes/search/search_forms_manager.php:513
+#: classes/search/search_forms_manager.php:617
+#: classes/search/search_forms_manager.php:881
+#: classes/search/search_forms_manager.php:1184
+msgid "Always closed"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:27
+#: classes/search/search_forms_manager.php:118
+#: classes/search/search_forms_manager.php:152
+#: classes/search/search_forms_manager.php:180
+#: classes/search/search_forms_manager.php:313
+#: classes/search/search_forms_manager.php:445
+#: classes/search/search_forms_manager.php:514
+#: classes/search/search_forms_manager.php:618
+#: classes/search/search_forms_manager.php:882
+#: classes/search/search_forms_manager.php:1185
+msgid "In 'more filters' section"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:34
+#: classes/search/search_forms_manager.php:125
+#: classes/search/search_forms_manager.php:159
+#: classes/search/search_forms_manager.php:658
+#: classes/search/search_forms_manager.php:666
+#: classes/search/search_forms_manager.php:913
+#: classes/search/search_forms_manager.php:921 functions.php:2623
+msgid "Try to search"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:35
+#: classes/search/search_forms_manager.php:126
+#: classes/search/search_forms_manager.php:160
+#: classes/search/search_forms_manager.php:659
+#: classes/search/search_forms_manager.php:667
+#: classes/search/search_forms_manager.php:914
+#: classes/search/search_forms_manager.php:922
+msgid "Comma-separated list of suggestions to try to search"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:41
+msgid "Autocomplete field"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:43
+#: classes/search/search_forms_manager.php:78
+#: classes/search/search_forms_manager.php:261
+#: classes/search/search_forms_manager.php:394
+#: classes/search/search_forms_manager.php:596
+#: classes/search/search_forms_manager.php:676
+#: classes/search/search_forms_manager.php:721
+#: classes/search/search_forms_manager.php:778
+#: classes/search/search_forms_manager.php:815
+#: classes/search/search_forms_manager.php:825
+#: classes/search/search_forms_manager.php:942
+#: classes/search/search_forms_manager.php:999
+#: classes/search/search_forms_manager.php:1036
+#: classes/search/search_forms_manager.php:1046
+#: classes/search/search_forms_manager.php:1105
+#: classes/search/search_forms_manager.php:1134
+#: classes/search/search_forms_manager.php:1163
+#: classes/search/search_forms_manager.php:1194
+#: classes/search/search_forms_manager.php:1240
+msgid "No"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:44
+#: classes/search/search_forms_manager.php:79
+#: classes/search/search_forms_manager.php:262
+#: classes/search/search_forms_manager.php:395
+#: classes/search/search_forms_manager.php:597
+#: classes/search/search_forms_manager.php:677
+#: classes/search/search_forms_manager.php:722
+#: classes/search/search_forms_manager.php:779
+#: classes/search/search_forms_manager.php:816
+#: classes/search/search_forms_manager.php:826
+#: classes/search/search_forms_manager.php:943
+#: classes/search/search_forms_manager.php:1000
+#: classes/search/search_forms_manager.php:1037
+#: classes/search/search_forms_manager.php:1047
+#: classes/search/search_forms_manager.php:1106
+#: classes/search/search_forms_manager.php:1135
+#: classes/search/search_forms_manager.php:1164
+#: classes/search/search_forms_manager.php:1195
+#: classes/search/search_forms_manager.php:1241
+msgid "Yes"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:51
+msgid "Order items"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:53
+msgid "By relevance"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:54
+msgid "By price"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:62
+#: classes/search/search_forms_manager.php:799
+#: classes/search/search_forms_manager.php:1020
+msgid "Order direction"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:64
+#: classes/search/search_forms_manager.php:801
+#: classes/search/search_forms_manager.php:1022
+msgid "ASC"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:65
+#: classes/search/search_forms_manager.php:802
+#: classes/search/search_forms_manager.php:1023
+msgid "DESC"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:76
+#: classes/search/search_forms_manager.php:674
+msgid "Links to products in autocomplete suggestion"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:87
+#: classes/search/search_forms_manager.php:685
+msgid "How to open links"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:89
+#: classes/search/search_forms_manager.php:687
+msgid "Open in new window"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:90
+#: classes/search/search_forms_manager.php:688
+msgid "Open in same window"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:141
+msgid "Enter address"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:187
+#: classes/search/search_forms_manager.php:320
+#: classes/search/search_forms_manager.php:625
+#: classes/search/search_forms_manager.php:889
+msgid "Search mode"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:189
+#: classes/search/search_forms_manager.php:322
+#: classes/search/search_forms_manager.php:635
+#: classes/search/search_forms_manager.php:898
+msgid "Range slider"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:190
+#: classes/search/search_forms_manager.php:323
+#: classes/search/search_forms_manager.php:636
+#: classes/search/search_forms_manager.php:899
+msgid "Single slider"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:191
+#: classes/search/search_forms_manager.php:324
+msgid "Min-max options in one dropdown"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:192
+#: classes/search/search_forms_manager.php:325
+msgid "Min-max options in two dropdowns"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:193
+#: classes/search/search_forms_manager.php:326
+msgid "Min-max options in radios"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:194
+#: classes/search/search_forms_manager.php:327
+msgid "Two inputs"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:201
+#: classes/search/search_forms_manager.php:208
+#: classes/search/search_forms_manager.php:334
+#: classes/search/search_forms_manager.php:341
+msgid "Placeholder min"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:202
+msgid "Select price range"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:209
+msgid "Select min price"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:215
+#: classes/search/search_forms_manager.php:348
+msgid "Placeholder max"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:216
+msgid "Select max price"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:222
+#: classes/search/search_forms_manager.php:224
+#: classes/search/search_forms_manager.php:355
+#: classes/search/search_forms_manager.php:357
+#: classes/search/search_forms_manager.php:521
+#: classes/search/search_forms_manager.php:523
+msgid "Show scale"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:225
+#: classes/search/search_forms_manager.php:358
+#: classes/search/search_forms_manager.php:524
+msgid "Show as string"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:233
+#: classes/search/search_forms_manager.php:366
+#: classes/search/search_forms_manager.php:531
+msgid "Scale labels"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:235
+#: classes/search/search_forms_manager.php:368
+#: classes/search/search_forms_manager.php:533
+msgid "Odd and even labels"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:236
+#: classes/search/search_forms_manager.php:369
+#: classes/search/search_forms_manager.php:534
+msgid "Only odd labels"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:244
+#: classes/search/search_forms_manager.php:377
+msgid "Radios columns"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:245
+#: classes/search/search_forms_manager.php:378
+msgid "When radio buttons is used in search mode"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:259
+#: classes/search/search_forms_manager.php:392
+#: classes/search/search_forms_manager.php:823
+#: classes/search/search_forms_manager.php:1044
+#: classes/search/search_forms_manager.php:1103
+#: classes/search/search_forms_manager.php:1132
+#: classes/search/search_forms_manager.php:1161
+#: classes/search/search_forms_manager.php:1192
+#: classes/search/search_forms_manager.php:1238
+msgid "Show counter"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:270
+#: classes/search/search_forms_manager.php:403
+#: classes/search/search_forms_manager.php:542
+msgid "Min-Max options"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:279
+#: classes/search/search_forms_manager.php:411
+#: classes/search/search_forms_manager.php:480
+#: classes/search/search_forms_manager.php:550
+#: classes/search/search_forms_manager.php:843
+#: classes/search/search_forms_manager.php:1064
+msgid "Dependency"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:280
+#: classes/search/search_forms_manager.php:412
+#: classes/search/search_forms_manager.php:481
+#: classes/search/search_forms_manager.php:551
+#: classes/search/search_forms_manager.php:844
+#: classes/search/search_forms_manager.php:1065
+msgid "The field will be dependent from selected tax"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:282
+#: classes/search/search_forms_manager.php:414
+#: classes/search/search_forms_manager.php:483
+#: classes/search/search_forms_manager.php:553
+#: classes/search/search_forms_manager.php:846
+#: classes/search/search_forms_manager.php:1067
+msgid "No dependency"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:288
+#: classes/search/search_forms_manager.php:420
+#: classes/search/search_forms_manager.php:489
+#: classes/search/search_forms_manager.php:559
+#: classes/search/search_forms_manager.php:852
+#: classes/search/search_forms_manager.php:1073
+msgid "Dependency visibility"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:290
+#: classes/search/search_forms_manager.php:422
+#: classes/search/search_forms_manager.php:491
+#: classes/search/search_forms_manager.php:561
+#: classes/search/search_forms_manager.php:854
+#: classes/search/search_forms_manager.php:1075
+msgid "Hidden"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:291
+#: classes/search/search_forms_manager.php:423
+#: classes/search/search_forms_manager.php:492
+#: classes/search/search_forms_manager.php:562
+#: classes/search/search_forms_manager.php:855
+#: classes/search/search_forms_manager.php:1076
+msgid "Shaded"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:335
+msgid "Select range"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:342
+msgid "Select min"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:349
+msgid "Select max"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:452
+msgid "Placeholder start"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:453
+msgid "Select start date"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:458
+msgid "Placeholder end"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:459
+msgid "Select end date"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:464
+#: classes/search/search_forms_manager.php:580
+msgid "Reset text"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:465
+msgid "reset"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:470
+msgid "Show fields"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:472
+msgid "Vertically"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:473
+msgid "Horizontally"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:572
+msgid "Button text"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:573
+msgid "Search"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:581
+msgid "Reset"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:588
+msgid "Text"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:589
+msgid "More filters"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:594
+msgid "Opened by default"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:627
+#: classes/search/search_forms_manager.php:891
+msgid "Single dropdown"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:628
+#: classes/search/search_forms_manager.php:892
+msgid "Single dropdown + keywords"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:629
+msgid "Heirarhical dropdown"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:630
+#: classes/search/search_forms_manager.php:893
+msgid "Multi dropdown"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:631
+#: classes/search/search_forms_manager.php:894
+msgid "Radios"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:632
+#: classes/search/search_forms_manager.php:895
+msgid "Radio buttons"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:633
+#: classes/search/search_forms_manager.php:896
+msgid "Checkboxes"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:634
+#: classes/search/search_forms_manager.php:897
+msgid "Checkboxes buttons"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:696
+#: classes/search/search_forms_manager.php:929
+msgid "Relation"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:707
+msgid "Max depth level"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:719
+#: classes/search/search_forms_manager.php:940
+msgid "Open on click"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:730
+#: classes/search/search_forms_manager.php:951
+msgid "Columns"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:744
+#: classes/search/search_forms_manager.php:965
+msgid "Cut long-list items by height (in pixels)"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:751
+#: classes/search/search_forms_manager.php:972
+msgid "How to cut long-list items"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:753
+#: classes/search/search_forms_manager.php:974
+msgid "Show all/hide and scroll"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:754
+#: classes/search/search_forms_manager.php:975
+msgid "Use only scroll"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:762
+#: classes/search/search_forms_manager.php:983
+msgid "Text to open new items"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:763
+#: classes/search/search_forms_manager.php:984
+msgid "show all"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:769
+#: classes/search/search_forms_manager.php:990
+msgid "Text to hide"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:770
+#: classes/search/search_forms_manager.php:991
+msgid "hide"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:776
+#: classes/search/search_forms_manager.php:997
+msgid "Use floating pointer"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:787
+#: classes/search/search_forms_manager.php:1008
+msgid "Order terms"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:789
+#: classes/search/search_forms_manager.php:1010
+msgid "By default"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:790
+#: classes/search/search_forms_manager.php:1011
+msgid "By name"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:791
+#: classes/search/search_forms_manager.php:1012
+msgid "By count"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:813
+#: classes/search/search_forms_manager.php:1034
+msgid "Hide empty"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:833
+#: classes/search/search_forms_manager.php:1054
+msgid "Set specific terms"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:834
+#: classes/search/search_forms_manager.php:1055
+msgid "Show all terms or select specific (dependent on max depth level)"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:836
+#: classes/search/search_forms_manager.php:1057
+msgid "All terms"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:837
+#: classes/search/search_forms_manager.php:1058
+msgid "Specific terms"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1086
+#: classes/search/search_forms_manager.php:1115
+#: classes/search/search_forms_manager.php:1144
+#: classes/search/search_forms_manager.php:1173
+#: classes/search/search_forms_manager.php:1210
+msgid "Label text"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1087
+msgid "featured"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1092
+#: classes/search/search_forms_manager.php:1121
+#: classes/search/search_forms_manager.php:1150
+#: classes/search/search_forms_manager.php:1226
+msgid "Align"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1094
+#: classes/search/search_forms_manager.php:1123
+#: classes/search/search_forms_manager.php:1152
+#: classes/search/search_forms_manager.php:1228
+msgid "Left"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1095
+#: classes/search/search_forms_manager.php:1124
+#: classes/search/search_forms_manager.php:1153
+#: classes/search/search_forms_manager.php:1229
+msgid "Center"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1096
+#: classes/search/search_forms_manager.php:1125
+#: classes/search/search_forms_manager.php:1154
+#: classes/search/search_forms_manager.php:1230
+msgid "Right"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1116
+msgid "in stock"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1145
+msgid "on sale"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1174
+msgid "By ratings"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1202
+msgid "Stars color"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1211
+msgid "open now"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1216
+msgid "Display as"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1218
+msgid "Checkbox"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1219
+msgid "Button"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1310
+msgid "Single dropdown + address"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1342
+msgid "Make duplicate"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1410 search.php:534
+msgid "Search Form"
+msgstr ""
+
+#: classes/search/search_forms_manager.php:1485
+msgid "Shortcode"
+msgstr ""
+
+#: classes/search_form.php:340
+msgid "No placeholders in the form!"
+msgstr ""
+
+#: classes/updater.php:13
+msgid ""
+"check your purchase code and envato access token at the Search Forms -> "
+"Search settings page. Make sure you have correctly generated access token "
+"https://www.salephpscripts.com/wordpress-search/demo/documentation/update/"
+msgstr ""
+
+#: classes/updater.php:58 classes/updater.php:59
+msgid "Search settings"
+msgstr ""
+
+#: classes/updater.php:84
+msgid "License verification passed successfully!"
+msgstr ""
+
+#: classes/updater.php:88
+msgid "License verification did not pass!"
+msgstr ""
+
+#: classes/updater.php:99
+msgid ""
+"Your installation of WooCommerce Search & Filter has not been verified yet."
+msgstr ""
+
+#: classes/updater.php:193
+msgid "response from Codecanyon - "
+msgstr ""
+
+#: classes/updater.php:247
+#, php-format
+msgid ""
+"Correct Envato access token required. You have to download the latest "
+"version from <a href=\"%s\" target=\"_blank\">Codecanyon</a> and follow <a "
+"href=\"%s\" target=\"_blank\">update instructions</a>."
+msgstr ""
+
+#: classes/widgets/search.php:8
+msgid "Select search form"
+msgstr ""
+
+#: classes/widgets/search.php:19
+msgid "WC Search Form"
+msgstr ""
+
+#: classes/widgets/widget.php:257
+msgid "- Select Form -"
+msgstr ""
+
+#: functions.php:519 functions.php:557
+msgid "Select term"
+msgstr ""
+
+#: functions.php:614
+msgid "Click to edit search form"
+msgstr ""
+
+#: functions.php:866
+msgid "WooCommerce search"
+msgstr ""
+
+#: functions.php:869
+msgid "Web 2.0 Directory search"
+msgstr ""
+
+#: functions.php:872
+msgid "Google Maps Locator search"
+msgstr ""
+
+#: functions.php:875
+msgid "MapBox Locator search"
+msgstr ""
+
+#: functions.php:1081 functions.php:1082 functions.php:1113
+msgid "min"
+msgstr ""
+
+#: functions.php:1085 functions.php:1086 functions.php:1118
+msgid "max"
+msgstr ""
+
+#: functions.php:1411
+msgid "mile"
+msgid_plural "miles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1411
+#, fuzzy
+#| msgctxt "WCSEARCH"
+#| msgid "kilometer"
+#| msgid_plural "kilometers"
+msgid "kilometer"
+msgid_plural "kilometers"
+msgstr[0] "kilometer1"
+msgstr[1] "kilometer2"
+
+#: functions.php:1616
+#, php-format
+msgid "less than %s"
+msgstr ""
+
+#: functions.php:1619
+#, php-format
+msgid "more than %s"
+msgstr ""
+
+#: functions.php:1700
+msgid "(no title)"
+msgstr ""
+
+#: functions.php:2090
+msgid "My Location"
+msgstr ""
+
+#: functions.php:2091
+msgid "GeoLocation service does not work on your device!"
+msgstr ""
+
+#: functions_wc.php:55
+msgid "Product categories"
+msgstr ""
+
+#: functions_wc.php:56
+msgid "Product tags"
+msgstr ""
+
+#: search.php:533
+msgid "Search Forms"
+msgstr ""
+
+#: search.php:535 search.php:536
+msgid "Create new search form"
+msgstr ""
+
+#: search.php:537
+msgid "Edit search form"
+msgstr ""
+
+#: search.php:538
+msgid "New search form"
+msgstr ""
+
+#: search.php:539
+msgid "View search form"
+msgstr ""
+
+#: search.php:540
+msgid "Search search forms"
+msgstr ""
+
+#: search.php:541
+msgid "No search forms found"
+msgstr ""
+
+#: search.php:542
+msgid "No search forms found in trash"
+msgstr ""
+
+#: search.php:543
+msgid "Search form updated"
+msgstr ""
+
+#: search.php:544
+msgid "Search form published"
+msgstr ""
+
+#: search.php:546
+msgid "Search forms"
+msgstr ""
+
+#: search.php:680
+msgid "unselect"
+msgstr ""
+
+#: search.php:682
+msgid "search nearby"
+msgstr ""
+
+#: search.php:683
+msgid "My location"
+msgstr ""
+
+#: search.php:706
+msgid "Documentation"
+msgstr ""
+
+#: search.php:707
+msgid "Changelog"
+msgstr ""
+
+#: search.php:718
+msgid "Settings"
+msgstr ""
+
+#: templates/demo_data_import.tpl.php:3
+msgid "Demo Data Import"
+msgstr ""
+
+#: templates/demo_data_import.tpl.php:7 templates/demo_forms_import.tpl.php:7
+msgid ""
+"1. This is Demo Forms Import tool. This tool will help you to install some "
+"demo forms and demo pages."
+msgstr ""
+
+#: templates/demo_data_import.tpl.php:8 templates/demo_forms_import.tpl.php:8
+msgid ""
+"2. Each time you click import button - it creates new set of search forms "
+"and pages. Avoid duplicates."
+msgstr ""
+
+#: templates/demo_data_import.tpl.php:9 templates/demo_forms_import.tpl.php:9
+#, php-format
+msgid ""
+"3. This is not 100% copy of the demo site. Just gives some examples of "
+"search forms. Final view and layout depends on your theme options."
+msgstr ""
+
+#: templates/demo_data_import.tpl.php:15 templates/demo_forms_import.tpl.php:15
+msgid "Start import"
+msgstr ""
+
+#: templates/demo_data_import.tpl.php:19
+msgid "Export"
+msgstr ""
+
+#: templates/demo_forms_import.tpl.php:3
+msgid "Demo Forms Import"
+msgstr ""
+
+#: templates/demo_links.tpl.php:2
+msgid "Prev demo:"
+msgstr ""
+
+#: templates/demo_links.tpl.php:3
+msgid "Next demo:"
+msgstr ""
+
+#: templates/search_fields/frontend/radius.tpl.php:11
+#: templates/search_fields/model/radius.tpl.php:11
+msgid "Search in radius "
+msgstr ""
+
+#: templates/search_fields/frontend/tax_buttons.tpl.php:35
+#: templates/search_fields/frontend/tax_radios_checkboxes.tpl.php:42
+#: templates/search_fields/model/tax_buttons.tpl.php:69
+#: templates/search_fields/model/tax_radios_checkboxes.tpl.php:77
+msgid "No items in this taxonomy yet"
+msgstr ""
+
+#: templates/search_fields/model/tax_buttons.tpl.php:58
+#: templates/search_fields/model/tax_radios_checkboxes.tpl.php:67
+msgid "Edit color"
+msgstr ""
+
+#: templates/search_fields/model/tax_buttons.tpl.php:58
+#: templates/search_fields/model/tax_radios_checkboxes.tpl.php:67
+msgid "options"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:160
+msgid "wider/narrower"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:245
+msgid "delete"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:269
+msgid "add row"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:284
+msgid "remove row"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:299
+msgid "add placeholder here"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:533
+msgid "Element:"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:538
+msgid "Item:"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:544
+msgid "Item color"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:589
+msgid "Add"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:790
+msgid "Apply changes"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1174
+msgid "Select element, please."
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1369
+msgid "All inputs will be droped and empty form saved. Continue?"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1386
+#: templates/search_form_model.tpl.php:1575
+msgid "Save form"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1388
+#: templates/search_form_model.tpl.php:1577
+msgid "Test form"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1394
+msgid "Elements"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1397
+msgid "Form"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1400
+msgid "Options"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1407
+msgid "This search form is used by"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1430
+msgid "On the shop page"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1441
+msgid "Auto-submit"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1444
+msgid "No search button required"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1454
+msgid "Use AJAX"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1457
+msgid "or enter target URL"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1467
+msgid "Target URL"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1470
+msgid "Submit form to this URL"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1480
+msgid "Background color"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1490
+msgid "Text color"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1500
+msgid "Elements color"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1511
+msgid "Show overlay"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1521
+msgid "Overlay transparency"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1531
+msgid "Use border"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1541
+msgid "Scroll to results after submit"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1551
+msgid "Sticky scroll"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1561
+msgid "Sticky scroll top padding"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1584
+msgid "Add column"
+msgstr ""
+
+#: templates/search_form_model.tpl.php:1585
+msgid "Add placeholder"
+msgstr ""
+
+#: templates/settings.tpl.php:3
+msgid "Search Settings"
+msgstr ""
+
+#: templates/settings.tpl.php:12
+msgid "Purchase code"
+msgstr ""
+
+#: templates/settings.tpl.php:26
+msgid "Access token"
+msgstr ""
+
+#: templates/settings.tpl.php:41
+msgid "Save changes"
+msgstr ""
